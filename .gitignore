@@ -38,15 +38,6 @@ logs/
 *.pth
 *.onnx
 
-# Large datasets and generated data
-data/raw/
-data/processed/
-data/splits/
-datasets/
-*.csv
-*.parquet
-*.feather
-
 # Temporary files
 tmp/
 temp/
